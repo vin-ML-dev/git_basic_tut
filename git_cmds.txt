@@ -1,0 +1,13 @@
+>>> git config --global --list
+To display configured user name and email
+
+if not configured
+git config --global user.name "vineet"
+git config --global user.email "abc@gmail.com"
+
+-->staging area is where we want to save the changes to commit 
+-->move files from working area to staging area
+git add .
+or git add file_name
+
+
