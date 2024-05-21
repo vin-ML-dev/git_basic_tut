@@ -10,4 +10,18 @@ git config --global user.email "abc@gmail.com"
 git add .
 or git add file_name
 
+--->git branch
+display list of branches in local repo
+
+--> git branch dev
+create a new branch
+
+-->git status 
+see the changes whether they are tracked or not
+
+
+---> switch branch
+git switch dev
+
+
 
